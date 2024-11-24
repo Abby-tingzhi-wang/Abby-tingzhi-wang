@@ -4,6 +4,9 @@ A <b>Data Scientist</b> passionate about uncovering insights and creating impact
 Love solving complex problems (predictive modeling, factor analysis, and automation); Enjoy collaborating on exciting projects (image recognition, text analysis, and AI applications) with talented teams. 
 <p>I’m a strong advocate for 🧠 AI innovation, 📜 open source collaboration, 🔍 data-driven decision-making, and 🚀 pushing boundaries with technology.</p>
 
+#### Portfolio: <a href="troopl.com/abbywang" target="_blank">troopl.com/abbywang</a>
+
+
 <div align="center">
 <img src="wordcloud.png" alt="Alt Text" width="80%">
 </div>
