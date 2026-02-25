@@ -18,15 +18,15 @@
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/?size=100&id=yR8TkhIXHh7J&format=png&color=000000" alt="Book" width="30">
-    <p>Life-long learner: always growing, always curious</p>
+    <p> <b>Life-long learner:</b> always growing, always curious</p>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/?size=100&id=aNr36EdyJrEE&format=png&color=000000" alt="Sports" width="30">
-    <p>Sports lover: tennis, pilates, hiking, climbing, running</p>
+    <p><b>Sports lover: </b>tennis, pilates, hiking, climbing, running</p>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     ✈️
-    <p>Travel enthusiast: love connecting with people and cultures</p>
+    <p><b>Travel enthusiast:</b> love connecting with people and cultures</p>
   </div>  
 
 </div>
