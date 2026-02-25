@@ -14,28 +14,21 @@
   <h2>About Me</h2>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/?size=100&id=HshIQgiZ35nI&format=png&color=000000" alt="Goal" width="30">
-    <p><b>ENTJ-A:</b> Set up a goal, make a plan, and achieve it</p>
+    <p><b>ENTJ-A:</b> Set up a goal, make a plan, and get it done</p>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/?size=100&id=yR8TkhIXHh7J&format=png&color=000000" alt="Book" width="30">
-    <p>Life-long learner: continuous learn and grow</p>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/?size=100&id=jQWjiBo6UeMs&format=png&color=000000" alt="Travel" width="30">
-    <p>Love connection with people - Travel enthusiast</p>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/emoji/48/cat.png" alt="Cat" width="30">
-    <p>As easygoing as a kitten, and full of curiosity about the world</p>
+    <p>Life-long learner: always growing, always curious</p>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/?size=100&id=aNr36EdyJrEE&format=png&color=000000" alt="Sports" width="30">
     <p>Sports lover: tennis, pilates, hiking, climbing, running</p>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/?size=100&id=43207&format=png&color=000000" alt="Woman" width="30">
-    <p>3 words describe myself: organized, ambitious, positive</p>
-  </div>
+    ✈️
+    <p>Travel enthusiast: love connecting with people and cultures</p>
+  </div>  
+
 </div>
 
 
