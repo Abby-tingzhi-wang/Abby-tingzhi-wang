@@ -1,6 +1,6 @@
 ## Hi there, I'm Abby 👋
 
-<p>A <b>Senior Data Analyst & Analytics Engineer</b> with 7+ years of experience building scalable data pipelines, BI systems, and AI-powered analytics solutions 📊. I specialize in DBT, SQL, Power BI, and cloud-native architectures on Azure — turning complex data into reliable, actionable insights.</p>
+<p>A <b>Senior Data Analyst & AI Engineer</b> with 7+ years of experience building scalable data pipelines, BI systems, and AI-powered analytics solutions 📊. I specialize in DBT, SQL, Power BI, and cloud-native architectures on Azure — turning complex data into reliable, actionable insights.</p>
 <p>Passionate about 🧠 LLM/AI integration, 🔧 data engineering best practices, 📊 business intelligence, and 🚀 empowering teams with data-driven decisions.</p>
 
 #### Portfolio: <a href="troopl.com/abbywang" target="_blank">troopl.com/abbywang</a>
